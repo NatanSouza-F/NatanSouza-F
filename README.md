@@ -1,7 +1,6 @@
 <div align="center">
   
   # Olá, sou o Natan Souza! 👋
----
   
   ### 🕵️‍♂️ Analista de Riscos | Excel, SQL & Python
   
