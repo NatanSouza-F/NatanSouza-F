@@ -25,16 +25,15 @@
   <br>
   <br>
 
-  ### 🏆 Minhas Conquistas
+  ### 📫 Contato
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NatanSouza-F&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-
-  <br>
-
-  ### 🔥 Minha Frequência (Streak)
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanSouza-F&theme=dracula&hide_border=true" />
+  <div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
   
 </div>
