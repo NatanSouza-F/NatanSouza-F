@@ -10,8 +10,7 @@
     Utilizo <b>SQL e Python</b> para desenvolver scripts de automação, aplicando técnicas de extração, tratamento e organização de dados para transformar processos de compliance em inteligência estratégica e decisões <b>Data-Driven</b>.
   </p>
   
----
-  ### 🛠️ Minha Caixa de Ferramentas
+  <hr> ### 🛠️ Minha Caixa de Ferramentas
   
   <div style="display: inline_block">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
