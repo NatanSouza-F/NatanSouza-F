@@ -2,7 +2,7 @@
   
   # Olá, sou o Natan Souza! 👋
   
-  ### 🕵️‍♂️ Analista de Riscos | Excel, SQL & Python
+  ### 🕵️‍♂️ Analista de Riscos com foco em Dados | Excel, SQL & Python
   
   <p>
     Organizando dados para previnir riscos.
