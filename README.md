@@ -25,13 +25,16 @@
   <br>
   <br>
 
-  ### 📊 Meus Números no GitHub
+  ### 🏆 Minhas Conquistas
   
-  <div align="center">
-    <a href="https://github.com/NatanSouza-F">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=NatanSouza-F&show_icons=true&theme=dracula&include_all_commits=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanSouza-F&layout=compact&theme=dracula"/>
-    </a>
-  </div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NatanSouza-F&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+
+  <br>
+
+  ### 🔥 Minha Frequência (Streak)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NatanSouza-F&theme=dracula&hide_border=true" />
   
 </div>
