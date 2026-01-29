@@ -5,7 +5,7 @@
   ### 🕵️‍♂️ Analista de Riscos | Excel, SQL & Python
   
   <p>
-    Organizando dados para prevenção de riscos
+    Organizando dados para previnir riscos.
     <br>
     Utilizo <b>SQL e Python</b> para desenvolver scripts de automação, aplicando técnicas de extração, tratamento e organização de dados para transformar processos complexos em inteligência estratégica e decisões efetivas <b>Data-Driven</b>.
   </p>
