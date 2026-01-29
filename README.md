@@ -2,10 +2,10 @@
   
   # Olá, sou o Natan Souza! 👋
   
-  ### 🕵️‍♂️ Analista de Riscos & Dados | SQL & Python
+  ### 🕵️‍♂️ Analista de Riscos | Excel, SQL & Python
   
   <p>
-    Atualmente sou Analista de Supervisão e Riscos, focado em <b>Prevenção a Fraudes</b>.
+    Atualmente sou Analista de Supervisão e Riscos, focado em <b>Prevenção a Fraudes e Risco Operacional</b>.
     <br>
     Estou migrando minha carreira para a área de Dados para transformar auditoria em inteligência.
   </p>
