@@ -9,10 +9,6 @@
     <br>
     Utilizo <b>SQL e Python</b> para desenvolver scripts de automação, aplicando técnicas de extração, tratamento e organização de dados para transformar processos de compliance em inteligência estratégica e decisões <b>Data-Driven</b>.
   </p>
-    <br>
-    Estou migrando minha carreira para a área de Dados para transformar auditoria em inteligência.
-  </p>
-
   ---
   
   ### 🛠️ Minha Caixa de Ferramentas
