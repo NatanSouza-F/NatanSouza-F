@@ -24,10 +24,10 @@
   ### 📫 Contato
   
   <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+    <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/natan-fernandes-3815301a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaUDTCl6gROKORWEj5AhL%2BA%3D%3D)" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+    <a href="mailto:natanfernandes.150@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
